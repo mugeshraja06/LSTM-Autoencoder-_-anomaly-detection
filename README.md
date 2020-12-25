@@ -1,7 +1,7 @@
 # LSTM Autoencoder _ anomaly detection _Time Series
 Anomaly detection on Time Series data by using LSTM Autoencoder
 
-Objective: We have the chosen GE motor dataset from Yahoo finance which available from 2000 to 2020. Our ultimate goal is to build the model to detect anomaly pattern in dataset.       
+Objective: We have chosen the GE motor dataset from Yahoo finance which available from 2000 to 2020. Our ultimate goal is to build the model to detect anomaly pattern in dataset.       
 
 Outcome: We were able to build the models to detect the anomaly pattern in dataset. 
  
